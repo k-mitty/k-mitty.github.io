@@ -1,5 +1,7 @@
 ## Welcome
 
-Hello **Github Pages**!!
+Hello Github Pages !!
 
-This is my trial blog for study.
+This is my trial Git Pages for study.
+
+Next trial >> **Octpress**
